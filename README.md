@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Anyongyeire Hezekiah</h1>
 <h3 align="center">A passionate Systems Administrator, Enthusiast in Technology</h3>
-img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=iMeNF7ub&id=5E8B7B0D9918AD248A146FADE2C5B8EE4032452E&thid=OIP.iMeNF7ubwgLtwMH8LrOPMgHaEw&mediaurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.88c78d17bb9bc202edc0c1fc2eb38f32%3Frik%3DLkUyQO64xeKtbw%26riu%3Dhttp%253a%252f%252felitetechnocrats.com%252fimages%252fsoftware_devlopment.gif%26ehk%3D6AD7zgGC6jwLfDIHxT0litMN1sq3X3g2USbMwlyMxn4%253d%26risl%3D%26pid%3DImgRaw%26r%3D0&exph=900&expw=1400&q=system+administration+gifs&simid=608010951388332007&form=IRPRST&ck=D16B11542E9ED8F85170EE2F99E81E1B&selectedindex=2&itb=0&ajaxhist=0&ajaxserp=0&vt=0&sim=11"
+<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=iMeNF7ub&id=5E8B7B0D9918AD248A146FADE2C5B8EE4032452E&thid=OIP.iMeNF7ubwgLtwMH8LrOPMgHaEw&mediaurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.88c78d17bb9bc202edc0c1fc2eb38f32%3Frik%3DLkUyQO64xeKtbw%26riu%3Dhttp%253a%252f%252felitetechnocrats.com%252fimages%252fsoftware_devlopment.gif%26ehk%3D6AD7zgGC6jwLfDIHxT0litMN1sq3X3g2USbMwlyMxn4%253d%26risl%3D%26pid%3DImgRaw%26r%3D0&exph=900&expw=1400&q=system+administration+gifs&simid=608010951388332007&form=IRPRST&ck=D16B11542E9ED8F85170EE2F99E81E1B&selectedindex=2&itb=0&ajaxhist=0&ajaxserp=0&vt=0&sim=11">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anyongyeire&label=Profile%20views&color=0e75b6&style=flat" alt="anyongyeire" /> </p>
 
